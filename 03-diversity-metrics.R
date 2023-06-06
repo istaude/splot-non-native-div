@@ -1,5 +1,4 @@
-# This script calculates species richness, shannon diversity index, 
-# and simpson's index for each splot and finally joins them to the 
+# This script calculates species richness and pielou's J and finally joins them to the 
 # plots selected in script 2
 setwd("C:/Users/is68jafy/Desktop/backupSEPT2022/msc_students/suzanne/R/rcode")
 
