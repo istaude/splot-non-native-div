@@ -4,7 +4,7 @@
 
 The R Code provided in this repository allows to reproduce the entire data carpentry, analysis and visualization of *"Non-natives are linked to higher plant diversity across spatial scales"*.
 
-Since GitHub does not allow large file sizes, all data read in the R scripts are available at:
+Since GitHub does not allow large file sizes, all data read in the R scripts are available at: https://drive.google.com/drive/folders/105MNDlJSQKEW4BDaShvve3ovdcnGfCBR?usp=drive_link
 
 ## Folder structure
 
